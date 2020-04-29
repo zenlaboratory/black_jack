@@ -1,0 +1,6 @@
+{
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true
+}
